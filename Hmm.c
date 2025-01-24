@@ -18,4 +18,14 @@ int printValues(){
 } //end
 
 //start function swap
+int swap(*x, *y ){
+ temp = *x;
+ *x = *y;
+ *y = temp;
+ return 0;
+} // end swap
 
+//start function sort
+int sort( ){
+
+}
